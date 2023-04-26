@@ -200,7 +200,7 @@ Casual customers use bikeshare services more during weekends, while members use 
 
 
 ### Recommendations
-Provide attractive promotions for casual riders on weekdays so that casual members use the bikeshare services ore uniformly across the entire week.
+Since there are less casual users riding in weekdays, provide promotions for casual riders on weekdays so that casual riders will use the bikes.
 
 As there are more casual riders in weekends than weekdays, Provide weekend memberships will increse the amount of member riders.
 
