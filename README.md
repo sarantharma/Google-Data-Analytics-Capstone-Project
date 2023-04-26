@@ -174,11 +174,41 @@ rides.to_csv('bike_share_rides.csv',index=False,header=True)
 # STEP 5: SHARE
 
 ![alt text](img/TotalRides.png)
-![alt text](img/RidesVsMonth.png)
-![alt text](img/RidesVsDayoftheWeek.png)
-![alt text](img/RideTypeVsRides.png)
-![alt text](img/BikeDemandover24hourtimeframe.png)
+From the above graph, it will show the total number of casual and member riders in the last year.
 
+
+![alt text](img/RidesVsMonth.png)
+From graph above, casual riders are busy on Saturday followed by Sunday. In the week days member riders are busier than casual riders. 
+
+![alt text](img/RidesVsDayoftheWeek.png)
+The graph shows that in the summer time (May - September) number of riders is the most busy of the year. There might be an external factor like weather
+and holidays impact the riders needs. It clearly shows that member riders are always higher than the casual riders across all months of the year. 
+
+
+![alt text](img/RideTypeVsRides.png)
+The above graph shows that classic bikes are mainly used by riders. Docked bikes are only used by casual riders and comparatively very less than classic or electric bikes.  
+
+![alt text](img/BikeDemandover24hourtimeframe.png)
+From the graph above we can see that in the business hours both riders ride in most amount and member riders are at the peek bettween 4pm to 6pm. 
+
+
+# STEP 5: ACT
+Casual riders made 38% of total trips contributing to 62% of total trip duration between March 2022 - February 2023. 
+
+Casual customers use bikeshare services more during weekends, while members use them consistently over the entire week.
+
+
+
+### Recommendations
+Provide attractive promotions for casual riders on weekdays so that casual members use the bikeshare services ore uniformly across the entire week.
+
+As there are more casual riders in weekends than weekdays, Provide weekend memberships will increse the amount of member riders.
+
+
+#### Additional information to expand the scope of analysis
+Age and gender data could be used to study targeted riders.
+
+Pricing detail of members and casual riders could be used to study the cost structure and will lead to marketing strategy.
 
 
 
