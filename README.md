@@ -65,6 +65,12 @@ import pandas as pd
 ## Importing data set
 ```
 # Importing Datasets
+ridedata_202204 = pd.read_csv('./202204-divvy-tripdata.csv')
+ridedata_202205 = pd.read_csv('./202205-divvy-tripdata.csv')
+ridedata_202206 = pd.read_csv('./202206-divvy-tripdata.csv')
+ridedata_202207 = pd.read_csv('./202207-divvy-tripdata.csv')
+ridedata_202208 = pd.read_csv('./202208-divvy-tripdata.csv')
+ridedata_202209 = pd.read_csv('./202209-divvy-publictripdata.csv')
 ridedata_202210 = pd.read_csv('./202210-divvy-tripdata.csv')
 ridedata_202211 = pd.read_csv('./202211-divvy-tripdata.csv')
 ridedata_202212 = pd.read_csv('./202212-divvy-tripdata.csv')
@@ -75,7 +81,7 @@ ridedata_202303 = pd.read_csv('./202303-divvy-tripdata.csv')
 
 ```
 # Combining all the datasets into one single dataframe
-all_ridedata = [ridedata_202210,ridedata_202211,ridedata_202212,ridedata_202301,ridedata_202302,ridedata_202303]
+all_ridedata = [ridedata_202204,ridedata_202205,ridedata_202206,ridedata_202207,ridedata_202208,ridedata_202209,ridedata_202210,ridedata_202211,ridedata_202212,ridedata_202301,ridedata_202302,ridedata_202303]
 rides = pd.concat(all_ridedata)
 ```
 
