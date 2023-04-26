@@ -166,11 +166,12 @@ rides.to_csv('bike_share_rides.csv',index=False,header=True)
 ```
 
 # STEP 5: SHARE
-![alt text](img/Total Rides.png)
-![alt text](img/Rides Vs Month.png)
-![alt text](img/Rides Vs Day of the Week.png)
-![alt text](img/Ride Type Vs Rides.png)
-![alt text](img/Bike Demand over 24 hour time frame.png)
+
+![alt text](img/TotalRides.png)
+![alt text](img/RidesVsMonth.png)
+![alt text](img/RidesVsDayoftheWeek.png)
+![alt text](img/RideTypeVsRides.png)
+![alt text](img/BikeDemandover24hourtimeframe.png)
 
 
 
