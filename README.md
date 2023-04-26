@@ -44,7 +44,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 # STEP 2: PREPARE
 
 ## Data Set
-The data has been made available by Motivate International Inc. under this license. This is public data that you can use to explore how different customer types are
+The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). This is public data that you can use to explore how different customer types are
 using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This
 means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the
 Cyclistic service area or if they have purchased multiple single passes.
