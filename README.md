@@ -90,9 +90,6 @@ print(rides.info())
 ```
 ![alt text](img/info.png)
 
-
-# STEP 3: PROCESS
-
 ```
 # find missing data points per column
 missing_values_count = rides.isnull().sum()
