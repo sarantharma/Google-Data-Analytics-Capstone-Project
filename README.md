@@ -164,7 +164,7 @@ rides = rides.drop(indices)
 ```
 rides.describe()
 ```
-![alt text](img/describe.png)
+![alt text](img/describefunction.png)
 
 ```
 # Export data into a csv file 
